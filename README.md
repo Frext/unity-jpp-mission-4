@@ -6,15 +6,33 @@
 
 > 💡 **Project Note:** This repository is built upon a starter template provided by **Unity Learn**. The core scene assets, UI layouts, and class structures were provided as a baseline; my role involved programming and implementing the architectural functionality (such as data persistence, OOP logic, and scene flow).
 
+The project contains 2 tutorials:
+* Lesson 4 - Sumo Warrior
+* Challenge 4 - Soccer Scripting
+
+---
+
+## 🚀 Quick Start
+
+Want to skip the code and just explore the environment? 
+
+1. **[Download the Repository](https://github.com/Frext/CofiShopTycoon/archive/refs/heads/main.zip)**
+
+2. Extract the ZIP file.
+  
+3. To test the **Sumo Warrior:** Navigate to the `BuildWindows/SumoWarrior` folder and launch **`Sumo Warrior.exe`**.
+
+4. To test the **Soccer Balls:** Navigate to the `BuildWindows/SoccerBalls` folder and launch **`Sumo Warrior.exe`**.
+
 ---
 
 ## 🎮 Controls
 
 | Key | Action |
 | :---: | :--- |
-| **W A S D** |  |
-| **LEFT CLICK** |   |
-| **RIGHT CLICK** |   |
+| **A D** | Rotate the Camera  |
+| **W S** | Move |
+| **SPACE** | Boost  |
 
 ---
 
@@ -26,9 +44,13 @@
 
 ## 📸 Screenshots
 
+### Sumo Warrior
+
 | |  |
 |:---:|:---:|
 | <img src="" width="500" alt=""/> | <img src="" width="500" alt=""/> |
+
+### Soccer Balls
 
 | |  |
 |:---:|:---:|
