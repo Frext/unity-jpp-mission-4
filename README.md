@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows-orange?logo=windows)](https://www.microsoft.com/windows/)
 [![Project Foundation](https://img.shields.io/badge/Template-Unity%20Learn-lightgrey?style=flat&logo=unity)](https://learn.unity.com/)
 
-> 💡 **Project Note:** This repository is built upon a starter template provided by **Unity Learn**. The core scene assets, UI layouts, and class structures were provided as a baseline; my role involved programming and implementing the architectural functionality (such as data persistence, OOP logic, and scene flow).
+> 💡 **Project Note:** This repository is built upon a starter template provided by **Unity Learn**. The core scene assets and class structures were provided as a baseline; my role involved programming and implementing the architectural functionality (such as gameplay programming and scene flow).
 
 This repository contains 2 projects:
 * [Lesson 4 - Sumo Warrior](https://learn.unity.com/pathway/junior-programmer/unit/gameplay-mechanics/tutorial/lesson-4-1-watch-where-you-re-going-2)
