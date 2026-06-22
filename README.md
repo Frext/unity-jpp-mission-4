@@ -17,7 +17,7 @@ This repository contains 2 projects:
 
 Want to skip the code and just play? 
 
-1. **[Download the Repository](https://github.com/Frext/Sumo-Warrior/archive/refs/heads/main.zip)**
+1. **[Download the Repository](https://github.com/Frext/Junior-Programmer-Pathway-Mission-4/archive/refs/heads/main.zip)**
 
 2. Extract the ZIP file.
   
