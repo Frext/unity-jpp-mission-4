@@ -32,7 +32,7 @@ Want to skip the code and just play?
 | :---: | :--- | :--- |
 | **W S** | Move | Move |
 | **A D** | Rotate the Camera | Rotate the Camera |
-| **SPACE** | N/A | Boost |
+| **SPACE** | N/A | Speed Boost |
 
 ---
 
@@ -54,7 +54,6 @@ https://github.com/user-attachments/assets/9f856bfc-178e-4b28-959e-72048f3c451f
 |:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/622d5880-5be1-4103-9fe3-67f974610650" width="500" alt="Start"/> | <img src="https://github.com/user-attachments/assets/a533ac77-6363-4dd2-a82a-a4ba4a658fda" width="500" alt="Gameplay"/> |
 
-
 ### Soccer Balls
 
 | Start | Gameplay |
@@ -64,6 +63,18 @@ https://github.com/user-attachments/assets/9f856bfc-178e-4b28-959e-72048f3c451f
 ---
 
 ## 🎯 Implemented Parts
+
+### Sumo Warrior
+
+* **Camera & Movement Control:** The camera rotates around the island with horizontal input, and the player rolls in the camera's direction with vertical input.
+* **Power-Ups:** Collecting a power-up activates a visual indicator and launches enemies flying on collision, disappearing after a set time.
+* **Progressive Wave Spawning:** Enemies spawn in waves at random locations; every time a wave is cleared, the enemy count increases and a new power-up spawns.
+
+### Soccer Balls
+
+* **Enemy AI:** Enemies actively target you to push you into the net, but you can physically hit them to deflect them away.
+* **Power-Ups:** Collecting a power-up gives you a visual indicator and temporary strength boost that automatically disappears after 5 seconds.
+* **Progressive Wave Spawning:** When all enemy balls are cleared from the field, a new wave instantly spawns with one additional enemy.
 
 ---
 
