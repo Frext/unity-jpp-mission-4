@@ -6,9 +6,9 @@
 
 > 💡 **Project Note:** This repository is built upon a starter template provided by **Unity Learn**. The core scene assets, UI layouts, and class structures were provided as a baseline; my role involved programming and implementing the architectural functionality (such as data persistence, OOP logic, and scene flow).
 
-The project contains 2 tutorials:
-* Lesson 4 - Sumo Warrior
-* Challenge 4 - Soccer Scripting
+This repository contains 2 projects:
+* [Lesson 4 - Sumo Warrior](https://learn.unity.com/pathway/junior-programmer/unit/gameplay-mechanics/tutorial/lesson-4-1-watch-where-you-re-going-2)
+* [Challenge 4 - Soccer Scripting](https://learn.unity.com/pathway/junior-programmer/unit/gameplay-mechanics/tutorial/challenge-4-soccer-scripting-1)
 
 ---
 
@@ -28,18 +28,11 @@ Want to skip the code and just explore the environment?
 
 ## 🎮 Controls
 
-### Sumo Warrior                          
-| Key | Action |
-| :---: | :--- |
-| **A D** | Rotate the Camera  |
-| **W S** | Move |
-
-### Soccer Balls
-| Key | Action |
-| :---: | :--- |
-| **A D** | Rotate the Camera  |
-| **W S** | Move |
-| **SPACE** | Boost  |
+| Key | Sumo Warrior | Soccer Balls |
+| :---: | :--- | :--- |
+| **W S** | Move | Move |
+| **A D** | Rotate the Camera | Rotate the Camera |
+| **SPACE** | N/A | Boost |
 
 ---
 
