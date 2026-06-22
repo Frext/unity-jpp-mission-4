@@ -14,7 +14,7 @@ This repository contains 2 projects:
 
 ## 🚀 Quick Start
 
-Want to skip the code and just explore the environment? 
+Want to skip the code and just play? 
 
 1. **[Download the Repository](https://github.com/Frext/Sumo-Warrior/archive/refs/heads/main.zip)**
 
