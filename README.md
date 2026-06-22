@@ -16,18 +16,25 @@ The project contains 2 tutorials:
 
 Want to skip the code and just explore the environment? 
 
-1. **[Download the Repository](https://github.com/Frext/CofiShopTycoon/archive/refs/heads/main.zip)**
+1. **[Download the Repository](https://github.com/Frext/Sumo-Warrior/archive/refs/heads/main.zip)**
 
 2. Extract the ZIP file.
   
-3. To test the **Sumo Warrior:** Navigate to the `BuildWindows/SumoWarrior` folder and launch **`Sumo Warrior.exe`**.
+3. To play **Sumo Warrior:** Navigate to the `BuildWindows/SumoWarrior` folder and launch **`Sumo Warrior.exe`**.
 
-4. To test the **Soccer Balls:** Navigate to the `BuildWindows/SoccerBalls` folder and launch **`Sumo Warrior.exe`**.
+4. To play **Soccer Balls:** Navigate to the `BuildWindows/SoccerBalls` folder and launch **`Sumo Warrior.exe`**.
 
 ---
 
 ## 🎮 Controls
 
+### Sumo Warrior                          
+| Key | Action |
+| :---: | :--- |
+| **A D** | Rotate the Camera  |
+| **W S** | Move |
+
+### Soccer Balls
 | Key | Action |
 | :---: | :--- |
 | **A D** | Rotate the Camera  |
@@ -38,7 +45,11 @@ Want to skip the code and just explore the environment?
 
 ## 🎬 Gameplay Preview
 
+### Sumo Warrior
+https://github.com/user-attachments/assets/3f503fba-2aa1-4290-b6f5-86b03e66e248
 
+### Soccer Balls
+https://github.com/user-attachments/assets/9f856bfc-178e-4b28-959e-72048f3c451f
 
 ---
 
@@ -46,15 +57,16 @@ Want to skip the code and just explore the environment?
 
 ### Sumo Warrior
 
-| |  |
+| Start | Gameplay |
 |:---:|:---:|
-| <img src="" width="500" alt=""/> | <img src="" width="500" alt=""/> |
+| <img src="https://github.com/user-attachments/assets/622d5880-5be1-4103-9fe3-67f974610650" width="500" alt="Start"/> | <img src="https://github.com/user-attachments/assets/a533ac77-6363-4dd2-a82a-a4ba4a658fda" width="500" alt="Gameplay"/> |
+
 
 ### Soccer Balls
 
-| |  |
+| Start | Gameplay |
 |:---:|:---:|
-| <img src="" width="500" alt=""/> | <img src="" width="500" alt=""/> |
+| <img src="https://github.com/user-attachments/assets/a5e9319f-8c80-443e-8fd2-5bbf4aaec00d" width="500" alt="Start"/> | <img src="https://github.com/user-attachments/assets/cbf06c26-2ecb-45d8-be2d-fab684084382" width="500" alt="Gameplay"/> |
 
 ---
 
