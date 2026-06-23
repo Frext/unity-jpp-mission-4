@@ -19,8 +19,8 @@ Want to skip the code and just play?
 
 1. **[Download the Repository](https://github.com/Frext/unity-jpp-mission-4/archive/refs/heads/main.zip)**
 2. Extract the ZIP file.
-3. To play **Sumo Warrior:** Navigate to the `BuildWindows/SumoWarrior` folder and launch **`Sumo Warrior.exe`**.
-4. To play **Soccer Balls:** Navigate to the `BuildWindows/SoccerBalls` folder and launch **`Sumo Warrior.exe`**.
+3. To play **Sumo Warrior:** Open the `BuildWindows/SumoWarrior` folder and launch **`Sumo Warrior.exe`**.
+4. To play **Soccer Balls:** Open the `BuildWindows/SoccerBalls` folder and launch **`Sumo Warrior.exe`**.
 
 ---
 
