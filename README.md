@@ -1,7 +1,7 @@
 # Unity Junior Programmer Pathway - Mission 4
 
 [![Unity Version](https://img.shields.io/badge/Unity-2021.3.9f1-blue.svg?style=flat&logo=unity)](https://unity.com/)
-[![Language](https://img.shields.io/badge/Language-C%23-green.svg?style=flat\&logo=c-sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Language](https://img.shields.io/badge/Language-C%23-green.svg?style=flat&logo=c-sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-orange?logo=windows)](https://www.microsoft.com/windows/)
 [![Project Foundation](https://img.shields.io/badge/Template-Unity%20Learn-lightgrey?style=flat&logo=unity)](https://learn.unity.com/)
 
@@ -17,12 +17,9 @@ This repository contains 2 projects:
 
 Want to skip the code and just play? 
 
-1. **[Download the Repository](https://github.com/Frext/Junior-Programmer-Pathway-Mission-4/archive/refs/heads/main.zip)**
-
+1. **[Download the Repository](https://github.com/Frext/unity-jpp-mission-4/archive/refs/heads/main.zip)**
 2. Extract the ZIP file.
-  
 3. To play **Sumo Warrior:** Navigate to the `BuildWindows/SumoWarrior` folder and launch **`Sumo Warrior.exe`**.
-
 4. To play **Soccer Balls:** Navigate to the `BuildWindows/SoccerBalls` folder and launch **`Sumo Warrior.exe`**.
 
 ---
